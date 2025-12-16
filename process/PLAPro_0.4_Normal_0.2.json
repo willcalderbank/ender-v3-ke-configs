@@ -1,0 +1,19 @@
+{
+  "name": "Ender-3 KE | PLA Pro | Normal 0.2",
+  "nozzle_diameter": 0.4,
+  "layer_height": 0.2,
+  "line_width": 0.44,
+  "wall_speed_outer": 30,
+  "wall_speed_inner": 55,
+  "top_bottom_speed": 30,
+  "infill_speed": 150,
+  "travel_speed": 250,
+  "max_volumetric_speed": 12,
+  "nozzle_temperature": 220,
+  "bed_temperature": 60,
+  "fan_max": 75,
+  "flow_ratio": 1.03,
+  "walls": 3,
+  "top_layers": 5,
+  "bottom_layers": 5
+}

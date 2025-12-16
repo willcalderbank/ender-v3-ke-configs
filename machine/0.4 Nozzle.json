@@ -1,0 +1,9 @@
+{
+    "from": "User",
+    "inherits": "Creality Ender-3 V3 KE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "0.4 Nozzle",
+    "nozzle_type": "hardened_steel",
+    "printer_settings_id": "0.4 Nozzle",
+    "version": "2.3.1.10"
+}

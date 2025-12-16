@@ -1,0 +1,10 @@
+{
+    "from": "User",
+    "host_type": "crealityprint",
+    "inherits": "Creality Ender-3 V3 KE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Ender KE 0.4",
+    "print_host": "192.168.1.218",
+    "printer_settings_id": "Ender KE 0.4",
+    "version": "2.3.1.10"
+}
