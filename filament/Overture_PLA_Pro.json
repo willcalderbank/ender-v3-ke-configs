@@ -1,18 +1,24 @@
 {
+    "close_fan_the_first_x_layers": [
+        "5"
+    ],
     "compatible_printers": [
         "Creality Ender-3 V3 KE 0.4 nozzle"
     ],
+    "enable_pressure_advance": [
+        "1"
+    ],
     "fan_max_speed": [
-        "85"
+        "60"
     ],
     "fan_min_speed": [
-        "80"
+        "40"
     ],
     "filament_flow_ratio": [
-        "1.02"
+        "1"
     ],
     "filament_max_volumetric_speed": [
-        "14"
+        "13.75"
     ],
     "filament_settings_id": [
         "Overture _PLA_Pro"
@@ -26,9 +32,12 @@
     ],
     "inherits": "Overture PLA Pro @System",
     "is_custom_defined": "0",
-    "name": "Overture _PLA_Pro",
+    "name": "Overture_PLA_Pro",
     "nozzle_temperature": [
-        "217"
+        "212"
+    ],
+    "pressure_advance": [
+        "0.03"
     ],
     "version": "2.3.1.10"
 }
