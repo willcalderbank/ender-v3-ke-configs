@@ -1,6 +1,6 @@
 {
     "close_fan_the_first_x_layers": [
-        "5"
+        "2"
     ],
     "compatible_printers": [
         "Creality Ender-3 V3 KE 0.4 nozzle"
@@ -9,38 +9,32 @@
         "1"
     ],
     "fan_max_speed": [
-        "50"
+        "80"
     ],
     "fan_min_speed": [
-        "30"
+        "65"
     ],
     "filament_flow_ratio": [
-        "1"
+        "0.985"
     ],
     "filament_max_volumetric_speed": [
-        "13.75"
+        "13"
     ],
     "filament_settings_id": [
-        "Overture_PLA_Pro"
+        "Overture_Matte_PLA"
     ],
     "from": "User",
     "hot_plate_temp": [
         "60"
     ],
     "hot_plate_temp_initial_layer": [
-        "62"
+        "60"
     ],
-    "inherits": "Overture PLA Pro @System",
+    "inherits": "Overture Matte PLA @System",
     "is_custom_defined": "0",
-    "name": "Overture_PLA_Pro",
-    "nozzle_temperature": [
-        "214"
-    ],
-    "nozzle_temperature_initial_layer": [
-        "218"
-    ],
+    "name": "Overture_Matte_PLA",
     "pressure_advance": [
-        "0.033"
+        "0.014"
     ],
     "version": "2.3.1.10"
 }
