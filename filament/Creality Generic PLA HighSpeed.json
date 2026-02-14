@@ -1,0 +1,16 @@
+{
+    "filament_max_volumetric_speed": [
+        "28"
+    ],
+    "filament_settings_id": [
+        "Creality Generic PLA HighSpeed"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "57"
+    ],
+    "inherits": "Creality Generic PLA High Speed @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "Creality Generic PLA HighSpeed",
+    "version": "2.3.1.10"
+}
