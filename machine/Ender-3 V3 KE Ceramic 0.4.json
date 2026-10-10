@@ -4,9 +4,9 @@
     "host_type": "crealityprint",
     "inherits": "Creality Ender-3 V3 KE 0.4 nozzle",
     "is_custom_defined": "0",
-    "name": "0.4 Nozzle",
+    "name": "Ender-3 V3 KE Ceramic 0.4",
     "nozzle_type": "hardened_steel",
     "print_host": "192.168.1.217",
-    "printer_settings_id": "0.4 Nozzle",
+    "printer_settings_id": "Ender-3 V3 KE Ceramic 0.4",
     "version": "2.3.1.10"
 }

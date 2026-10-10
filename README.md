@@ -15,7 +15,8 @@ This repo contains OrcaSlicer user presets in the standard folder layout:
 ## Supported Filaments
 
 - Overture PLA Pro
-- Overture PLA Matte
+- Overture Matte PLA
+- Creality Generic PLA HighSpeed
 
 ## Included Print (Process) Presets
 
@@ -31,11 +32,17 @@ All presets below are intended for a **0.4 mm nozzle**:
 ### Option A: Copy into your OrcaSlicer user presets folder
 
 1. Close OrcaSlicer.
-2. Copy the `filament/`, `machine/`, and `process/` folders into your OrcaSlicer user presets directory.
+2. Copy the `filament/`, `machine/`, and `process/` folders into your OrcaSlicer user presets directory:
+   - Windows: `%APPDATA%\OrcaSlicer\user\default\`
+   - macOS: `~/Library/Application Support/OrcaSlicer/user/default/`
+   - Linux: `~/.config/OrcaSlicer/user/default/`
+
+   If you are signed in, `default` is replaced by your user ID folder.
 3. Re-open OrcaSlicer.
 
 Notes:
 - If you already have presets with the same names, back them up first.
+- The machine preset `Ender-3 V3 KE Ceramic 0.4` has `print_host` set to `192.168.1.217`. Change it to your printer's IP address.
 - You may need to select the new machine / nozzle preset, then pick the filament and process presets for a given project.
 
 ### Option B: Import presets from within OrcaSlicer
