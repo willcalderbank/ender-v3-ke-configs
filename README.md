@@ -42,7 +42,7 @@ All presets below are intended for a **0.4 mm nozzle**:
 
 Notes:
 - If you already have presets with the same names, back them up first.
-- The machine preset `0.4 Nozzle` has `print_host` set to `192.168.1.217`. Change it to your printer's IP address.
+- The machine preset `Ender-3 V3 KE Ceramic 0.4` has `print_host` set to `192.168.1.217`. Change it to your printer's IP address.
 - You may need to select the new machine / nozzle preset, then pick the filament and process presets for a given project.
 
 ### Option B: Import presets from within OrcaSlicer
