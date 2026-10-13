@@ -17,6 +17,7 @@ This repo contains OrcaSlicer user presets in the standard folder layout:
 - Overture PLA Pro
 - Overture Matte PLA
 - Creality Generic PLA HighSpeed
+- Overture PETG
 
 ## Included Print (Process) Presets
 
@@ -26,6 +27,10 @@ All presets below are intended for a **0.4 mm nozzle**:
 - PLA 0.4 Optimal 0.16
 - PLA 0.4 Standard 0.2
 - PLA 0.4 Draft 0.24
+- PETG 0.4 Fine 0.12
+- PETG 0.4 Optimal 0.16
+- PETG 0.4 Standard 0.2
+- PETG 0.4 Draft 0.24
 
 ## How to Use
 
@@ -57,6 +62,13 @@ Even with good presets, you’ll usually get best results by validating:
 - Bed leveling / mesh
 - Temperature tower for each filament
 - Flow and pressure advance (if applicable to your workflow)
+
+## PETG Notes
+
+- Dry PETG before use (65 °C for 4-6 h). Wet PETG causes fine hairs and stringing.
+- Raise Z-offset slightly vs PLA. Don't squish PETG, but lines must touch.
+- Clean the bed with IPA. Use glue stick on smooth PEI (PETG can bond too hard).
+- Calibrate pressure advance and retraction in OrcaSlicer for your spool.
 
 ## License
 

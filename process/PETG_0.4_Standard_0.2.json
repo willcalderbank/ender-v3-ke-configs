@@ -9,6 +9,7 @@
     "outer_wall_acceleration": "2200",
     "outer_wall_speed": "55",
     "print_settings_id": "PETG_0.4_Standard_0.2",
+    "reduce_crossing_wall": "1",
     "sparse_infill_pattern": "tpmsd",
     "support_bottom_interface_spacing": "1.0",
     "support_bottom_z_distance": "0.4",
