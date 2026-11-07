@@ -17,6 +17,7 @@ This repo contains OrcaSlicer user presets in the standard folder layout:
 - Overture PLA Pro
 - Overture Matte PLA
 - Creality Generic PLA HighSpeed
+- Overture PETG
 
 ## Included Print (Process) Presets
 
@@ -26,6 +27,10 @@ All presets below are intended for a **0.4 mm nozzle**:
 - PLA 0.4 Optimal 0.16
 - PLA 0.4 Standard 0.2
 - PLA 0.4 Draft 0.24
+- PETG 0.4 Fine 0.12
+- PETG 0.4 Optimal 0.16
+- PETG 0.4 Standard 0.2
+- PETG 0.4 Draft 0.24
 
 ## How to Use
 

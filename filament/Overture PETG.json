@@ -5,6 +5,9 @@
     "compatible_printers": [
         "Creality Ender-3 V3 KE 0.4 nozzle"
     ],
+    "enable_pressure_advance": [
+        "1"
+    ],
     "fan_max_speed": [
         "50"
     ],
