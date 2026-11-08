@@ -21,7 +21,7 @@
         "0.95"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "15"
     ],
     "filament_retract_before_wipe": [
         "70%"
@@ -58,7 +58,7 @@
     "is_custom_defined": "0",
     "name": "Overture PETG",
     "nozzle_temperature": [
-        "240"
+        "245"
     ],
     "nozzle_temperature_initial_layer": [
         "245"
