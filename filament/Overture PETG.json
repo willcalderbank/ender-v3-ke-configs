@@ -45,7 +45,7 @@
         "0.2"
     ],
     "filament_z_hop_types": [
-        "Normal Lift"
+        "Slope Lift"
     ],
     "from": "User",
     "hot_plate_temp": [
@@ -64,7 +64,7 @@
         "245"
     ],
     "nozzle_temperature_range_high": [
-        "250"
+        "260"
     ],
     "overhang_fan_speed": [
         "80"
